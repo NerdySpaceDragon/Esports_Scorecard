@@ -1,1 +1,20 @@
+ul.nav_bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(149, 117, 179);
+    display:flex;
+}
 
+ul.nav_bar li{
+    float: left;
+
+}
+
+ul.nav_bar li a{
+    display:block;
+    color:white;
+    padding: 14px, 16px;
+    text-decoration: none;
+    
+}
