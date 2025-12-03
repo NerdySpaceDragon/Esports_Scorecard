@@ -4,7 +4,7 @@ ul.nav_bar{
     padding: 0;
     background-color: rgb(149, 117, 179);
     display:flex;
-    border: 2px white;
+    border: 2px white dashed;
 }
 
 ul.nav_bar li{
