@@ -22,5 +22,23 @@ ul.nav_bar li a{
 ul.nav_bar li a:hover{
     background-color: rgb(91, 72, 108);
     color:white;
-    
+
+}
+
+table{
+    width: 100%;
+    border: 1px solid black;
+}
+
+th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+tr:nth-of-type(even){
+    background-color: #97b3ef;
+}
+
+tr:first-of-type{
+    background-color: rgb(132, 107, 168);
 }
