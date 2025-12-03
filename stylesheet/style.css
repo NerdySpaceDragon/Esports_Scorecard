@@ -13,8 +13,14 @@ ul.nav_bar li{
 
 ul.nav_bar li a{
     display:block;
-    color:white;
+    color: black;
     padding: 14px, 16px;
     text-decoration: none;
+
+}
+
+ul.nav_bar li a:hover{
+    background-color: rgb(91, 72, 108);
+    color:white;
     
 }
